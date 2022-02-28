@@ -1,0 +1,25 @@
+segment_sources:
+  PB844BABB:
+    type: origin_type
+    relation: translation
+    language: en
+  PA061E4FE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8b3cedfc4b4e4e77a999cd5853aa8f3f:
+    PB844BABB: 5865bede5bd84c908ff5f5580bba5754
+    PA061E4FE: 9dc589d25ed841108a84750217f0ac92
+  58758c1b6ac04419866784f0edd79b1c:
+    PB844BABB: fc8f327973df42798256cc7d0781ab12
+    PA061E4FE: ced4ab93fdfb48799d53322b71b55c92
+  1a67bc9b26264769b10108adb0df6229:
+    PB844BABB: 27ae048dad0245959c04c19c3583d477
+    PA061E4FE: d072b978a61a494e89356fb76e7b55b8
+  39183cedc5164275b2de8945774a8158:
+    PB844BABB: b043e02492da4f4b98327367e0ef7c27
+    PA061E4FE: 1c7879f3c45d46e3b0bbe0289ef88739
+  8f61da2b1d3e415c85b0fab9a2775f03:
+    PB844BABB: f8c11df207524b10a6400bb58fb6e8a8
+    PA061E4FE: 19df1cd2193e4283889fd3eaea575844
